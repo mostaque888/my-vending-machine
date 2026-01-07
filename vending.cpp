@@ -3,6 +3,7 @@
 #include <string>
 #include <limits>
 #include <iomanip>
+#include <windows.h>
 
 using namespace std;
 
@@ -262,3 +263,4 @@ int main() {
     vm.run();
     return 0;
 }
+
